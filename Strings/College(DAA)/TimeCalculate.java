@@ -1,0 +1,1 @@
+//calculate time in any simple program in java like c and cpp use time.h
